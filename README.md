@@ -3,7 +3,7 @@ Attendance during a streak? When do people go to the game? Unclear
 # Abstract
 
 # Introduction and Background
-Baseball baseball baseball.
+Baseball baseball baseball baseball.
 Something here about being Canada's team, baseball, attendance etc.
 
 We looked at streak rather than rank because the rank only shows within the AL East without a contextual analysis of how the AL East fits into the rest of the leauge standings.
